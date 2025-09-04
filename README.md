@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Darmawan!
 
-💻 I'm an Informatics student at Gunadarma University who loves turning data and ideas into real-world applications.  
+💻 I'm a Fresh Graduate Informatics student at Gunadarma University who loves turning data and ideas into real-world applications.  
 🔬 Passionate about **Machine Learning, Deep Learning, and Computer Vision**, with hands-on projects ranging from **flight delay prediction dashboards**, **face recognition attendance systems**, to **tourism recommendation platforms**.  
 📊 I enjoy working with **Python, Flask, Streamlit, Scikit-learn, CatBoost, YOLOv8, and OpenCV**, and I love exploring how AI can solve practical problems.
 
