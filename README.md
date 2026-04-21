@@ -1,22 +1,26 @@
-## 👋 Hi there, I'm Darmawan!
+## 👋 Hi there, I'm Darmawan Suhara!
 
-💻 I'm a Fresh Graduate Informatics student at Gunadarma University who loves turning data and ideas into real-world applications.  
-🔬 Passionate about **Machine Learning, Deep Learning, and Computer Vision**, with hands-on projects ranging from **flight delay prediction dashboards**, **face recognition attendance systems**, to **tourism recommendation platforms**.  
-📊 I enjoy working with **Python, Flask, Streamlit, Scikit-learn, CatBoost, YOLOv8, and OpenCV**, and I love exploring how AI can solve practical problems.
+💻 Full-Stack Developer & AI Enthusiast | Informatics Graduate from Gunadarma University (GPA 3.72/4.00).
+I specialize in building functional web applications and developing intelligent systems that turn complex data into practical solutions. My experience spans from digitizing government administrative workflows to deploying deep learning models for real-time recognition.
 
 ### 🌟 What I Do
-- 🧠 Build and train ML/DL models (classification, prediction, recommendation).
-- 🛠️ Develop web-based apps that bring models into interactive use.
-- 📈 Data analysis & visualization to uncover insights and patterns.
+- Experienced in building robust administrative tools, such as automated letter systems and inventory tracking logs using PHP (CodeIgniter 4) and JavaScript (Supabase/PostgreSQL).
+- Proficient in building, training, and deploying neural network models using Python, YOLOv8, and TensorFlow for tasks like image classification and real-time object detection.
+- Skilled in system troubleshooting, version control with Git, and managing digital infrastructure for institutional needs.
+  
+### 🚀 Core Tech Stack
+- Python (Flask, Streamlit), PHP (CodeIgniter 4), JavaScript.
+- PostgreSQL (Supabase), Firebase, Git, Vercel, Railway.
+- YOLOv8, Scikit-learn, CNN, Computer Vision.
 
-### 🚀 Current Interests
-- Becoming a **Machine Learning Engineer**.
-- Exploring **MLOps and model deployment** (Docker, Railway, etc.).
-- Learning more about **scalable AI systems**.
-
+### 📊 Highlight Projects
+- Developed interactive web-based inventory and mailing systems for Lapas Kelas I Tangerang to streamline bureaucracy.
+- Built YOLOv8-based web apps for human emotion detection and color identification for color-blind users.
+- Built a logistics management system for BPBD Cianjur using CI4.
+  
 ### 📫 Let's Connect
-- 🌐 [Portfolio & Projects](https://darkswan12.pythonanywhere.com)  
-- 💼 Open to collaborations, research, or tech discussions.
+- 🌐 GitHub/Portfolio: github.com/darkswan12
+- 💼 Always open to collaborations in Software Engineering, Web Development, or Machine Learning roles.
 
 ---
 
